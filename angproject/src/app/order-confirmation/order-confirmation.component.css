@@ -1,0 +1,10 @@
+#container{
+    color: red;
+    font-family: "Times New Roman";
+    font-size: 36;
+    font-weight: bolder;
+}
+.marq1{
+    text-align: center;
+    loop: "1";
+}
